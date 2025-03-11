@@ -1,4 +1,4 @@
-path: C:/Users/custodio.massingue/Documents/perfect_store_server/dataset
+path: /mh_ps/dataset
 
 train: train/images
 val: valid/images
