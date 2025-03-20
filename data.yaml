@@ -1,4 +1,4 @@
-path: /mh_ps/dataset/dataset
+path: dataset
 
 train: train/images
 val: valid/images
