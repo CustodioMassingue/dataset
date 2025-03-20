@@ -1,4 +1,4 @@
-path: dataset
+path: /home/custodio-junior/mh_ps/datasets/dataset/
 
 train: train/images
 val: valid/images
