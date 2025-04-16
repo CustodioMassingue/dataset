@@ -2,6 +2,7 @@ path: /home/custodio-junior/mh_ps/dataset/dataset/
 
 train: /home/custodio-junior/mh_ps/dataset/dataset/train/images
 val: /home/custodio-junior/mh_ps/dataset/dataset/valid/images
+test: /home/custodio-junior/mh_ps/dataset/dataset/test/images
 
 names: 
   0: 88C091
@@ -85,3 +86,6 @@ names:
   78: 88S425
   79: 88S423
   80: 88S426
+  81: Em falta
+  82: Não identificado
+  83: Out of Stock
