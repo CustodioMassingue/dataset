@@ -79,6 +79,8 @@
 88S425
 88S423
 88S426
-Não identificado
-Out of Stock
-Em falta
+Não-identificado
+Out-of-Stock
+Em-falta
+preço
+Vazio
