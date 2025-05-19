@@ -84,3 +84,5 @@ Out-of-Stock
 Em-falta
 preço
 Vazio
+shelf-strips
+shelf-defenders
