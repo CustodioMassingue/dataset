@@ -86,3 +86,12 @@ preço
 Vazio
 shelf-strips
 shelf-defenders
+texto
+face
+radar
+maqred
+maqblue
+maqwhite
+maqpuple
+aquafresh
+88C114
